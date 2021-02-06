@@ -2,7 +2,7 @@
 
 Name: Dennis Chau
 
-Photo:
+![Headshot](./headshot.jpg?raw=true)
 
 Year: 2021
 
